@@ -10,6 +10,7 @@
 | ---- | -------- |
 | 0    | Json     |
 | 1    | Xml      |
+| 2    | CSV      |
 
 # 如何使用
 
@@ -28,13 +29,13 @@ git clone https://github.com/CHonesetDoPa/Chinglish.git
 ```
 # 字段
 
-| 字段                 | 代表数据     | 数据类型 | 样例                             |
+| 字段                 | 代表数据     | 数据类型 | 样例                            |
 | -------------------- | ------------ | -------- | ------------------------------- |
-| Chinglish_Num        | 序号         | 数字     | 0                                |
-| Chinglish_Data       | 数据         | 文本     | Long time no see                 |
-| Chinglish_Type       | 类型         | 文本     | N(Normal)/IP(Internet phrases )  |
-| Chinglish_Translated | 翻译后的文本  | 文本     | 好久不见                          |
-| Chinglish_Remarks    | 备注         | 文本     | 已经被牛津词典收录                 |
+| Chinglish_Num        | 序号         | 数字     | 0                               |
+| Chinglish_Data       | 数据         | 文本     | Long time no see                |
+| Chinglish_Type       | 类型         | 文本     | N(Normal)/IP(Internet phrases ) |
+| Chinglish_Translated | 翻译后的文本 | 文本     | 好久不见                        |
+| Chinglish_Remarks    | 备注         | 文本     | 已经被牛津词典收录              |
 
 # 许可证
 
