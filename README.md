@@ -38,6 +38,10 @@ git clone https://github.com/CHonesetDoPa/Chinglish.git
 | Chinglish_Translated_Chinese | 翻译后的中文文本 | 文本     | 好久不见                        |
 | Chinglish_Remarks            | 备注             | 文本     | 已经被牛津词典收录              |
 
+# 添加新的Chinglish
+
+Clone本Repo，向"Chinglish.csv"文件内添加或更改内容，然后依次转换为Chinglish.json、Chinglish.xml文件，最后Pull Requests，完成添加。
+
 # 许可证
 
 使用CC0许可，这意味着你可以无限制使用。
