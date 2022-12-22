@@ -16,11 +16,11 @@
 
 你可以直接使用Github提供的在线托管服务，也可以clone这个repo，本地使用。
 
-https://raw.githubusercontent.com/CHonesetDoPa/Chinglish/main/data.json
+https://raw.githubusercontent.com/CHonesetDoPa/Chinglish/main/Chinglish.json
 
 or
 
-https://raw.githubusercontent.com/CHonesetDoPa/Chinglish/main/data.xml
+https://raw.githubusercontent.com/CHonesetDoPa/Chinglish/main/Chinglish.xml
 
 or
 
