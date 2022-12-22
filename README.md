@@ -29,13 +29,14 @@ git clone https://github.com/CHonesetDoPa/Chinglish.git
 ```
 # 字段
 
-| 字段                 | 代表数据     | 数据类型 | 样例                            |
-| -------------------- | ------------ | -------- | ------------------------------- |
-| Chinglish_Num        | 序号         | 数字     | 0                               |
-| Chinglish_Data       | 数据         | 文本     | Long time no see                |
-| Chinglish_Type       | 类型         | 文本     | N(Normal)/IP(Internet phrases ) |
-| Chinglish_Translated | 翻译后的文本 | 文本     | 好久不见                        |
-| Chinglish_Remarks    | 备注         | 文本     | 已经被牛津词典收录              |
+| 字段                         | 代表数据         | 数据类型 | 样例                            |
+| ---------------------------- | ---------------- | -------- | ------------------------------- |
+| Chinglish_Num                | 序号             | 数字     | 0                               |
+| Chinglish_Data               | 数据             | 文本     | Long time no see                |
+| Chinglish_Type               | 类型             | 文本     | N(Normal)/IP(Internet phrases ) |
+| Chinglish_Translated_English | 翻译后的英文文本 | 文本     | It’s been a while.              |
+| Chinglish_Translated_Chinese | 翻译后的中文文本 | 文本     | 好久不见                        |
+| Chinglish_Remarks            | 备注             | 文本     | 已经被牛津词典收录              |
 
 # 许可证
 
