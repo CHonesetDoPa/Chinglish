@@ -18,7 +18,7 @@
 https://
 
 ```
-git clone 
+git clone https://github.com/CHonesetDoPa/Chinglish.git
 ```
 
 # License 许可证
