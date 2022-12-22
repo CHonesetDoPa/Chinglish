@@ -6,20 +6,35 @@
 
 # 数据类型 (\*表示主要类型 )
 
-|序号|数据类型   |
-|----|  ----  |
-|0| Json  |
-|1| Xml  |
+| 序号 | 数据类型 |
+| ---- | -------- |
+| 0    | Json     |
+| 1    | Xml      |
 
 # 如何使用
 
 你可以直接使用Github提供的在线托管服务，也可以clone这个repo，本地使用。
 
-https://
+https://raw.githubusercontent.com/CHonesetDoPa/Chinglish/main/data.json
+
+or
+
+https://raw.githubusercontent.com/CHonesetDoPa/Chinglish/main/data.xml
+
+or
 
 ```
 git clone https://github.com/CHonesetDoPa/Chinglish.git
 ```
+# 字段
+
+| 字段                 | 代表数据     | 数据类型 | 样例                             |
+| -------------------- | ------------ | -------- | ------------------------------- |
+| Chinglish_Num        | 序号         | 数字     | 0                                |
+| Chinglish_Data       | 数据         | 文本     | Long time no see                 |
+| Chinglish_Type       | 类型         | 文本     | N(Normal)/IP(Internet phrases )  |
+| Chinglish_Translated | 翻译后的文本  | 文本     | 好久不见                          |
+| Chinglish_Remarks    | 备注         | 文本     | 已经被牛津词典收录                 |
 
 # 许可证
 
