@@ -4,14 +4,14 @@
 
 好吧，这是一个中式英语收藏集，任何人都可以使用它。
 
-# Data Types 数据类型 (\*indicates the main type \*表示主要类型 )
+# 数据类型 (\*表示主要类型 )
 
-|序号|数据类型   ||No.|Type   |
-|----|  ----  |---- |----|  ----  | 
-|0| Json  ||0| Json  |
-|1| Xml  ||1| Xml  |
+|序号|数据类型   |
+|----|  ----  |
+|0| Json  |
+|1| Xml  |
 
-# How to use this repo 如何使用
+# 如何使用
 
 你可以直接使用Github提供的在线托管服务，也可以clone这个repo，本地使用。
 
@@ -21,6 +21,6 @@ https://
 git clone https://github.com/CHonesetDoPa/Chinglish.git
 ```
 
-# License 许可证
+# 许可证
 
 使用CC0许可，这意味着你可以无限制使用。
