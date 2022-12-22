@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <Chinglish_Num>0</Chinglish_Num>
+    <Chinglish_Type>N</Chinglish_Type>
+    <Chinglish_Data>Try try see</Chinglish_Data>
+    <Chinglish_Translated_English></Chinglish_Translated_English>
+    <Chinglish_Translated_Chinese>试试看</Chinglish_Translated_Chinese>
+    <Chinglish_Remarks>NONE</Chinglish_Remarks>
+  </row>
+  <row>
+    <Chinglish_Num>1</Chinglish_Num>
+    <Chinglish_Type>IP</Chinglish_Type>
+    <Chinglish_Data>no three no four</Chinglish_Data>
+    <Chinglish_Translated_English></Chinglish_Translated_English>
+    <Chinglish_Translated_Chinese>不三不四</Chinglish_Translated_Chinese>
+    <Chinglish_Remarks>NONE</Chinglish_Remarks>
+  </row>
+  <row>
+    <Chinglish_Num>2</Chinglish_Num>
+    <Chinglish_Type>N</Chinglish_Type>
+    <Chinglish_Data>You Give Me Stop</Chinglish_Data>
+    <Chinglish_Translated_English></Chinglish_Translated_English>
+    <Chinglish_Translated_Chinese>你给我站住</Chinglish_Translated_Chinese>
+    <Chinglish_Remarks>NONE</Chinglish_Remarks>
+  </row>
+  <row>
+    <Chinglish_Num>3</Chinglish_Num>
+    <Chinglish_Type>N</Chinglish_Type>
+    <Chinglish_Data>as far as you go to die</Chinglish_Data>
+    <Chinglish_Translated_English></Chinglish_Translated_English>
+    <Chinglish_Translated_Chinese>有多远，死多远</Chinglish_Translated_Chinese>
+    <Chinglish_Remarks>NONE</Chinglish_Remarks>
+  </row>
+  <row>
+    <Chinglish_Num>4</Chinglish_Num>
+    <Chinglish_Type>N</Chinglish_Type>
+    <Chinglish_Data>seven up eight down</Chinglish_Data>
+    <Chinglish_Translated_English></Chinglish_Translated_English>
+    <Chinglish_Translated_Chinese>七上八下</Chinglish_Translated_Chinese>
+    <Chinglish_Remarks>NONE</Chinglish_Remarks>
+  </row>
+  <row>
+    <Chinglish_Num>5</Chinglish_Num>
+    <Chinglish_Type>N</Chinglish_Type>
+    <Chinglish_Data>love who who</Chinglish_Data>
+    <Chinglish_Translated_English></Chinglish_Translated_English>
+    <Chinglish_Translated_Chinese>爱谁谁</Chinglish_Translated_Chinese>
+    <Chinglish_Remarks>NONE</Chinglish_Remarks>
+  </row>
+  <row>
+    <Chinglish_Num>6</Chinglish_Num>
+    <Chinglish_Type>IP</Chinglish_Type>
+    <Chinglish_Data>no can do</Chinglish_Data>
+    <Chinglish_Translated_English></Chinglish_Translated_English>
+    <Chinglish_Translated_Chinese>办不到</Chinglish_Translated_Chinese>
+    <Chinglish_Remarks>NONE</Chinglish_Remarks>
+  </row>
+  <row>
+    <Chinglish_Num>7</Chinglish_Num>
+    <Chinglish_Type>IP</Chinglish_Type>
+    <Chinglish_Data>no can</Chinglish_Data>
+    <Chinglish_Translated_English></Chinglish_Translated_English>
+    <Chinglish_Translated_Chinese>不能</Chinglish_Translated_Chinese>
+    <Chinglish_Remarks>NONE</Chinglish_Remarks>
+  </row>
+  <row>
+    <Chinglish_Num>8</Chinglish_Num>
+    <Chinglish_Type>N</Chinglish_Type>
+    <Chinglish_Data>You can you up,no can no BB</Chinglish_Data>
+    <Chinglish_Translated_English></Chinglish_Translated_English>
+    <Chinglish_Translated_Chinese>你行你上，不行别BB</Chinglish_Translated_Chinese>
+    <Chinglish_Remarks>NONE</Chinglish_Remarks>
+  </row>
+  <row>
+    <Chinglish_Num>9</Chinglish_Num>
+    <Chinglish_Type>N</Chinglish_Type>
+    <Chinglish_Data>Where cold where stay</Chinglish_Data>
+    <Chinglish_Translated_English></Chinglish_Translated_English>
+    <Chinglish_Translated_Chinese>哪凉快哪呆着去</Chinglish_Translated_Chinese>
+    <Chinglish_Remarks>NONE</Chinglish_Remarks>
+  </row>
+  <row>
+    <Chinglish_Num>10</Chinglish_Num>
+    <Chinglish_Type>N</Chinglish_Type>
+    <Chinglish_Data>You say what</Chinglish_Data>
+    <Chinglish_Translated_English></Chinglish_Translated_English>
+    <Chinglish_Translated_Chinese>你说啥</Chinglish_Translated_Chinese>
+    <Chinglish_Remarks>NONE</Chinglish_Remarks>
+  </row>
+</root>
